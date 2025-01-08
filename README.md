@@ -6,7 +6,7 @@
 > 2024.12.17 - 2024.12.30(11일)
 
 ## 💻배포 주소
-> [petstory](https://clone-petstory.netlify.app/)
+> [petstory](https://myjin0806-clone-petstory.netlify.app/)
 
 ## 📋깃허브 레포
 > https://github.com/myjin0806/clone_petstory.git
